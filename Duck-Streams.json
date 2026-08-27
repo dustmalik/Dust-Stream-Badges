@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DuckStreams",
+    "type": "json_imdb",
+    "imdbType": "movie",
+    "itemType": "info_hash",
+    "infoHashTargetKey": "infoHash",
+    "jsonResultsKey": "streams",
+    "torrentNameTargetKey": "behaviorHints.filename",
+    "sizeAttr": "behaviorHints.videoSize",
+    "searchPattern": {
+      "movie": "movie/%imdbId",
+      "tv": "series/%imdbId:%season:%episode"
+    },
+    "url": "https://aiostreams.fortheweak.cloud/stremio/01852991-26be-40dc-9b77-7341e96b2ddf/eyJpIjoiUWhWOTBmeEVZS05zVmpCTDVYb2RiQT09IiwiZSI6InE2Q1pUOEg2U1hyZmJzMm9hQUlkUk5Id0FJNlgrNklRSWlKYzRVOFhQRmc9IiwidCI6ImEifQ/stream/%searchPattern.json"
+  }
+]
