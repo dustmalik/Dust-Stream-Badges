@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Example · Movies",
+    "url": "https://aiostreams.8034705564.dev/stremio/4a8c87a2-f20d-443a-8a79-f8105ebcd65f/eyJpIjoielE3UGdueHlxdE5DZGp4NzF0ZmlCdz09IiwiZSI6IlFQRlEvVkdvR1YxeUNqVTZ3Z3lsaUhXeElFWlN6R2ZTOXJackpIbUNza3M9IiwidCI6ImEifQ/manifest.json",
+    "type": "json",
+    "itemType": "magnet",
+    "jsonResultsKey": "streams",
+    "magnetTargetKey": "magnet"
+  },
+  {
+    "name": "Example · Series",
+    "url": "https://aiostreams.8034705564.dev/stremio/4a8c87a2-f20d-443a-8a79-f8105ebcd65f/eyJpIjoielE3UGdueHlxdE5DZGp4NzF0ZmlCdz09IiwiZSI6IlFQRlEvVkdvR1YxeUNqVTZ3Z3lsaUhXeElFWlN6R2ZTOXJackpIbUNza3M9IiwidCI6ImEifQ/manifest.json",
+    "type": "json",
+    "itemType": "magnet",
+    "jsonResultsKey": "streams",
+    "magnetTargetKey": "magnet"
+  }
+]
